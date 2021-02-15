@@ -3,6 +3,7 @@
 // Title: Memory Game
 //
 // Author: Che John
+//Credit: UW Madison
 ///////////////////////// /////////////////////////
 
 import java.io.File;
